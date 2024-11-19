@@ -30,9 +30,6 @@ If you're a recruiter or a hiring manager, this repository offers a glimpse into
 
 ---
 
-## Contributing 🎇🌟
-
-Feel free to contribute to these projects by forking the repository, submitting pull requests, or suggesting improvements. Open to feedback and new ideas! 🤝💡
 
 ## License 📜✨
 
