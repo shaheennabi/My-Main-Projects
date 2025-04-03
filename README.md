@@ -1,4 +1,4 @@
-# My-Main-Projects 🚀🎇🎯
+# My-Main-Projects 🚀🎇
 
 Welcome to **My-Main-Projects** repository! 🎯🎆 This is where I showcase my **production-ready projects** that are built to scale and deploy efficiently. If you're a recruiter or someone interested in understanding the depth of my work, this is the place to explore the projects I’ve developed that are fully productionized, deployed across various cloud environments, and built with modular, industry-standard code. 💼✨🌟
 
