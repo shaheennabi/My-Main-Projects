@@ -19,7 +19,7 @@ In this repository, you'll find my **main projects** that are **production-grade
 ## Why Explore My Projects? 
 
 - **Ready for Production**: These projects are built with the intent to be deployed and run in real-world scenarios. Each project adheres to best practices and industry standards. 
-- **Scalable & Maintainable**: With a focus on modularity, the code is built for easy scaling, and updates can be applied efficiently. 📊🔄
+- **Scalable & Maintainable**: With a focus on modularity, the code is built for easy scaling, and updates can be applied efficiently. 
 - **Efficiency in Cloud**: Leveraging the power of the cloud, these projects are designed to be deployed and operated with minimal overhead and maximum flexibility. 
 
 ---
