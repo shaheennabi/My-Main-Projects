@@ -11,7 +11,7 @@ In this repository, you'll find my **main projects** that are **production-grade
 ### What You'll Find: 
 - **Production-Ready Projects**: From deployment on multiple clouds to seamless integrations, these projects are designed to run smoothly in production settings. 
 - **Modular Codebase**: Each project follows industry standards with a modular architecture, making it easy to scale, update, and maintain. 
-- **Cloud Deployments**: Projects are optimized for deployment on different cloud platforms, ensuring flexibility and adaptability to various environments. ☁️
+- **Cloud Deployments**: Projects are optimized for deployment on different cloud platforms, ensuring flexibility and adaptability to various environments. ☁
 - **Real-World Applications**: These projects are not just theoretical; they are designed to address real-world problems, and they are ready to be put into action. 
 
 ---
