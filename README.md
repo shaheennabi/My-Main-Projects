@@ -34,4 +34,4 @@ If you're a recruiter or a hiring manager, this repository offers a glimpse into
 ## License 📜
 
 This repository is licensed under the **MIT License**.  
-You are free to use, modify, and distribute the projects, as long as you attribute them to the original creators. For more details, check the [LICENSE](LICENSE) file. 🏛️
+You are free to use, modify, and distribute the projects, as long as you attribute them to the original creators. For more details, check the [LICENSE](LICENSE) file.. 🏛️
